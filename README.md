@@ -6,7 +6,14 @@ The primary objective of this project was to develop a solid proficiency in Goog
 ![screenshot-google-sheets-practice](https://github.com/user-attachments/assets/32298d18-4c45-47e8-b6b1-9ecb3a14b1de)
 
 ## Description:
+This project analyzes sales transactions and customer data from a bicycle retail business. The dataset includes transactional records, customer demographics, and product details, allowing for deep insights into sales trends, customer behavior, and business performance.
 
+The dataset consists of multiple tables, including raw and cleaned data:
+- Transactions_clean: Processed transaction records, including product details, sales dates, customer IDs, and profit margins.
+- Customers_clean: Cleaned customer data with demographics, job titles, car ownership, and purchase history.
+- Address_clean: Standardized customer address information.
+- NewCustomers_clean: Processed data on new customer acquisitions.
+- States_AU: Reference table for Australian states.
 
 ## Stages:
 1. Import data from different sources:
